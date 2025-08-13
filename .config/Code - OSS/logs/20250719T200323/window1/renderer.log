@@ -1,0 +1,19 @@
+2025-07-19 20:03:25.982 [info] Started local extension host with pid 10049.
+2025-07-19 20:03:26.111 [info] ComputeTargetPlatform: linux-x64
+2025-07-19 20:03:29.596 [info] [perf] Render performance baseline is 84ms
+2025-07-19 20:04:05.132 [error] Offline: Offline
+    at BYe.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:34884)
+    at async BYe.I (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:29297)
+    at async a (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:28019)
+    at async BYe.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:28307)
+    at async hot.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2292:14743)
+    at async obs.Mc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:843:20665)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:843:11775
+2025-07-19 20:04:05.205 [error] Offline: Offline
+    at BYe.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:34884)
+    at async BYe.I (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:29297)
+    at async a (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:28019)
+    at async BYe.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1869:28307)
+    at async hot.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2292:14743)
+    at async bbs.Mc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:843:21030)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:843:11775
