@@ -1,0 +1,22 @@
+(defwidget content []
+  (box
+    :orientation "vertical"
+    :spacing 10
+    :halign "center"
+    :valign "center"
+    :class "main-box"
+    (label :text "✅ Widget loaded!" :class "text")
+  )
+)
+
+(defwindow main
+  :monitor 0
+  :anchor "top right"
+  :margin 20
+  :width 250
+  :height 80
+  :stacking "fg"
+  :exclusive true
+  :focusable false
+  (content)
+)

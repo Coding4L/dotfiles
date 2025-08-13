@@ -1,0 +1,16 @@
+* {
+  all: unset;
+  font-family: "JetBrainsMono Nerd Font", monospace;
+  color: white;
+}
+
+.main-box {
+  background-color: rgba(0, 0, 0, 0.8);
+  border: 2px solid red; // You can remove this later
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.text {
+  font-size: 16px;
+}

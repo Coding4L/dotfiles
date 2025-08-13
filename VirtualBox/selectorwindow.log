@@ -1,0 +1,25 @@
+00:00:00.527041 VirtualBox GUI VM Selector Window 7.1.12 r169651 linux.amd64 (Jul 15 2025 20:14:26) release log
+00:00:00.527045 Log opened 2025-08-12T22:51:39.602093000Z
+00:00:00.527046 Build Type: release
+00:00:00.527050 OS Product: Linux
+00:00:00.527053 OS Release: 6.15.9-arch1-1
+00:00:00.527054 OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 02 Aug 2025 01:20:06 +0000
+00:00:00.527139 DMI Product Name: Inspiron 5423
+00:00:00.527163 DMI Product Version: Not Specified
+00:00:00.527173 Firmware type: UEFI
+00:00:00.527575 Secure Boot: Disabled
+00:00:00.527666 Host RAM: 7801MB (7.6GB) total, 5484MB (5.3GB) available
+00:00:00.527671 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.527672 Process ID: 19231
+00:00:00.527672 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.527749 Qt version: 6.9.1
+00:00:00.528995 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.547170 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.785455 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.882025 GUI: UIInvisibleWindow::sltFallback: Move event missing. Screen: 0, work area: 682x383 x 800x800
+00:00:04.882086 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 682x383 x 800x800
+00:11:03.791660 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:31.988557 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:32.501012 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:37.466398 GUI: UICommon: Handling aboutToQuit request..
+00:11:38.068048 GUI: UICommon: aboutToQuit request handled!

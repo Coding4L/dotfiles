@@ -1,0 +1,3 @@
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[{\"address\":\"192.168.86.28\",\"app_state\":\"MISSING\",\"created_timestamp\":1754061965,\"device_id\":\"0ad832d0-af13-3575-8b4b-c4da79da0649\",\"dial_location_url\":\"http://192.168.86.28:60000/dd.xml\",\"display_name\":\"rafi's Fire TV\",\"last_seen\":1754257045,\"manufacturer\":\"Amazon\",\"model_name\":\"AFTMM\",\"product_cap\":\"\",\"public_ip\":\"98.117.75.48\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":250,\"mac\":\"90a822a1b1dc\",\"port\":9,\"retries\":160}}]"
+connect.mdns_devices="[]"

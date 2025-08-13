@@ -1,0 +1,17 @@
+(defwindow main
+  :monitor 0
+  :anchor "left center"
+  :margin 10
+  :width 300
+  :height 600
+  :stacking "fg"
+  :exclusive true
+  :focusable false
+  (box :orientation "vertical" :space-evenly true :class "mainbox"
+    (label :text "🔥 EWW RICE 🔥" :class "title")
+    (label :text "CPU: {exec 'top -bn1 | grep Cpu | awk \\'{print $2}\\''}" :class "sys")
+    (label :text "RAM: {exec 'free -h | awk \\'/Mem/ {print $3}\\''}" :class "sys")
+    (progress :value "{exec 'free | awk \\'/Mem/ {printf(100*$3/$2)}\\''}" :class "bar")
+    (label :text "🎵 VIZ (coming soon)" :class "viz") ;; Placeholder
+  )
+)
