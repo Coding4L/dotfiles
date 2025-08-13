@@ -1,0 +1,4 @@
+ERR 2025-07-14T10:17:16.595 ui.71280   tui_stop:615: TUI already stopped (race?)
+ERR 2025-07-14T10:39:16.199 ui.2048    tui_stop:615: TUI already stopped (race?)
+ERR 2025-07-14T10:39:25.851 ui.2198    tui_stop:615: TUI already stopped (race?)
+ERR 2025-07-14T10:46:14.092 ui.1489    tui_stop:615: TUI already stopped (race?)

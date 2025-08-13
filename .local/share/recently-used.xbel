@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/rehanjaffary/Downloads/undefined%20-%20Imgur.jpg" added="2025-07-15T17:52:28.775217Z" modified="2025-07-15T17:53:48.223861Z" visited="2025-07-15T17:52:28.775218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-15T17:52:28.775221Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-15T17:53:48.223850Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/ArchBLKandWHITE.webp" added="2025-07-15T18:06:00.634185Z" modified="2025-07-15T18:06:01.106780Z" visited="2025-07-15T18:06:00.634188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-15T18:06:01.106775Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/ARCHblueANDwhite.jpg" added="2025-07-15T18:06:22.233754Z" modified="2025-07-15T18:06:22.639073Z" visited="2025-07-15T18:06:22.233755Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-15T18:06:22.639068Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/ARCHmtn.png" added="2025-07-15T18:06:39.669366Z" modified="2025-07-16T18:27:55.740341Z" visited="2025-07-15T18:06:39.669368Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-16T18:27:55.740335Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/peacewp.png" added="2025-07-15T18:12:42.572689Z" modified="2025-07-16T18:27:45.904329Z" visited="2025-07-15T18:12:42.572692Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-16T18:27:45.904313Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/main.png" added="2025-07-15T18:14:11.782555Z" modified="2025-07-15T18:14:12.919564Z" visited="2025-07-15T18:14:11.782559Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-15T18:14:12.919557Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/eww-widgets.zip" added="2025-07-15T22:42:47.534830Z" modified="2025-07-15T22:42:47.534855Z" visited="2025-07-15T22:42:47.534834Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-15T22:42:47.534841Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/nqjnrKZ-arch-linux-wallpaper.png" added="2025-07-19T21:31:25.039779Z" modified="2025-07-19T21:32:29.289346Z" visited="2025-07-19T21:31:25.039781Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-19T21:31:25.039788Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-07-19T21:32:29.289342Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/astronaut.jpg" added="2025-07-20T01:36:48.095235Z" modified="2025-07-20T01:40:22.379887Z" visited="2025-07-20T01:36:48.095237Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-20T01:40:22.379869Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/treemural.png" added="2025-07-20T01:37:09.762097Z" modified="2025-07-20T01:40:30.248976Z" visited="2025-07-20T01:37:09.762100Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-20T01:40:30.248963Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/cards.jpg" added="2025-07-20T01:55:17.101264Z" modified="2025-07-20T01:55:17.599203Z" visited="2025-07-20T01:55:17.101267Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-07-20T01:55:17.599184Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/WhatsApp%20Image%202025-08-04%20at%207.31.44%20PM.jpeg" added="2025-08-04T23:31:52.249553Z" modified="2025-08-04T23:32:53.787449Z" visited="2025-08-04T23:31:52.249555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-04T23:32:53.787445Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/WhatsApp%20Image%202025-08-04%20at%207.31.44%20PM(1).jpeg" added="2025-08-04T23:31:55.895044Z" modified="2025-08-04T23:32:53.787383Z" visited="2025-08-04T23:31:55.895047Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-04T23:32:53.787379Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/WhatsApp%20Image%202025-08-04%20at%204.08.42%20PM.jpeg" added="2025-08-04T23:32:01.200944Z" modified="2025-08-04T23:32:53.787309Z" visited="2025-08-04T23:32:01.200978Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-04T23:32:53.787292Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/WhatsApp%20Image%202025-08-04%20at%204.08.42%20PM(1).jpeg" added="2025-08-04T23:32:22.941749Z" modified="2025-08-04T23:32:53.787419Z" visited="2025-08-04T23:32:22.941752Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-04T23:32:53.787415Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/Alex%20Ruskman%20Kodachrome%2064.zip" added="2025-08-05T12:07:21.914271Z" modified="2025-08-05T12:07:40.170345Z" visited="2025-08-05T12:07:21.914273Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-05T12:07:40.170339Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/PORTRA+400+-+LT.xmp" added="2025-08-05T12:09:00.955785Z" modified="2025-08-05T12:09:42.483035Z" visited="2025-08-05T12:09:00.955787Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-05T12:09:42.483032Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/ColorMax+-+Lightroom+Preset.xmp" added="2025-08-05T12:09:11.708382Z" modified="2025-08-05T12:09:42.483008Z" visited="2025-08-05T12:09:11.708383Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-05T12:09:42.483003Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/LightroomNYCSkyline.zip" added="2025-08-05T12:10:29.121536Z" modified="2025-08-05T12:14:42.084780Z" visited="2025-08-05T12:10:29.121537Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-05T12:14:42.084774Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/Ektar-100-Download-PresetLove.pdf" added="2025-08-05T12:12:20.732044Z" modified="2025-08-05T12:12:20.732061Z" visited="2025-08-05T12:12:20.732047Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-05T12:12:20.732054Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/Ektar%20100.zip" added="2025-08-05T12:12:40.448774Z" modified="2025-08-05T12:14:42.084814Z" visited="2025-08-05T12:12:40.448777Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-05T12:14:42.084810Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/light%20film%20by%20@andreaspresets.dng" added="2025-08-05T12:13:47.261620Z" modified="2025-08-05T12:13:47.261633Z" visited="2025-08-05T12:13:47.261622Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-adobe-dng"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-05T12:13:47.261626Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/mediacreationtool.exe" added="2025-08-11T12:07:02.717677Z" modified="2025-08-11T12:07:02.717688Z" visited="2025-08-11T12:07:02.717679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-11T12:07:02.717682Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/Win11_24H2_English_x64(1).iso" added="2025-08-11T21:05:53.699128Z" modified="2025-08-11T21:05:53.699140Z" visited="2025-08-11T21:05:53.699130Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-11T21:05:53.699134Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rehanjaffary/Downloads/Win10_22H2_English_x64v1.iso" added="2025-08-11T21:21:20.698351Z" modified="2025-08-11T21:21:20.698364Z" visited="2025-08-11T21:21:20.698353Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2025-08-11T21:21:20.698357Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
